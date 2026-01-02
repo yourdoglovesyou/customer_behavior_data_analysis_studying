@@ -53,18 +53,18 @@ This project is ideal for:
 ---
 
 ## 📂 Repository Structure
+```text
 ├── data/
-│ └── customer_shopping_behavior.csv
+│   └── customer_shopping_behavior.csv
 ├── sql/
-│ └── customer_behavior_query.sql
+│   └── customer_behavior_query.sql
 ├── dashboard/
-│ └── customer_behavior_dashboard.pbix
+│   └── customer_behavior_dashboard.pbix
 ├── report/
-│ └── Customer Shopping Behavior Analysis.pdf
+│   └── Customer Shopping Behavior Analysis.pdf
 ├── notebooks/
-│ └── data_analysis.ipynb
+│   └── data_analysis.ipynb
 └── README.md
-
 
 ---
 
